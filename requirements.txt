@@ -64,3 +64,4 @@ oss2>=2.8.0
 # Oracle Cloud Infrastructure Provider
 oci>=2.2.4
 
+pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
